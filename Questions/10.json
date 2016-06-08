@@ -1,0 +1,126 @@
+{
+  "1" : {
+    "q" : "What can definitely kill a White walker?",
+    "a" : "Fire",
+    "b" : "Dragon Glass",
+    "c" : "Glass Sword",
+    "d" : "Fire Glass",
+    "s" : "b"
+  },
+	
+	"2" : {
+    "q" : "What animal is on House Baratheon's sigil?",
+    "a" : "Boar",
+    "b" : "Bear",
+    "c" : "Stag",
+    "d" : "Lion",
+    "s" : "c"
+  },
+	
+	"3" : {
+    "q" : "Historically, Baratheon babies are born with ____ hair?",
+    "a" : "Black",
+    "b" : "Red",
+    "c" : "Brown",
+    "d" : "Grey",
+    "s" : "a"
+  },
+	
+	"4" : {
+    "q" : "Fill in the blank: The night is dark and full of ________.",
+    "a" : "Blood",
+    "b" : "Evil",
+    "c" : "Death",
+    "d" : "Terrors",
+    "s" : "d"
+  },
+	
+	"5" : {
+    "q" : "Where is the Iron Bank?",
+    "a" : "Braavos",
+    "b" : "HighGarden",
+    "c" : "Pyke",
+    "d" : "Dorne",
+    "s" : "a"
+  },
+	
+	"6" : {
+    "q" : "Who cut off their hair when they lose a battle?",
+    "a" : "Hill tribes",
+    "b" : "Wildlings",
+    "c" : "Dothraki",
+    "d" : "Iron Borns",
+    "s" : "c"
+  },
+	"7" : {
+    "q" : "Who is Margaery Tyrell's first husband?",
+    "a" : "Joffrey Lannister",
+    "b" : "Renly Baratheon",
+    "c" : "Tommen Baratheon",
+    "d" : "Loras Tyrell",
+    "s" : "b"
+  },
+	
+	"8" : {
+    "q" : "What is the name of the wilding that Robb and Theon capture and bring back to Winterfell?",
+    "a" : "Ygritte",
+    "b" : "Ashka",
+    "c" : "Osha",
+    "d" : "Gilly",
+    "s" : "c"
+  },
+	
+	"9" : {
+    "q" : "For which crime was Ned Stark put on trial?",
+    "a" : "Attacking King",
+    "b" : "Murder",
+    "c" : "Stealing",
+    "d" : "Treason",
+    "s" : "d"
+  },
+	
+	"10" : {
+    "q" : "In 'Book of the Stranger' episode, who does not arrive at the Castle Black?",
+    "a" : "LittleFinger",
+    "b" : "Sansa",
+    "c" : "Podrick",
+    "d" : "Brianne",
+    "s" : "a"
+  },
+	
+	"11" : {
+    "q" : "Who was falsely accused for the attempted assassination of Bran?",
+    "a" : "Jaime Lannister",
+    "b" : "Tyrion Lannister",
+    "c" : "Cersei Lannister",
+    "d" : "Joffrey Lannister",
+    "s" : "b"
+  },
+	
+	"12" : {
+    "q" : "Whose face is scarred by GreyScale?",
+    "a" : "Melisandre",
+    "b" : "Olenna Tyrell",
+    "c" : "Shireen Baratheon",
+    "d" : "Ros",
+    "s" : "c"
+  },
+	
+	"13" : {
+    "q" : "Who was the last person to stab Jon?",
+    "a" : "Alliser",
+    "b" : "Edd",
+    "c" : "Davos",
+    "d" : "Olly",
+    "s" : "d"
+  },
+	
+	"14" : {
+    "q" : "What creature is commonly used in Westeros to deliver messages??",
+    "a" : "Ravens",
+    "b" : "Horse",
+    "c" : "Owl",
+    "d" : "Pigeon",
+    "s" : "a"
+  }
+}

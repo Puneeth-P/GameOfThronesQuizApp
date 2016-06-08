@@ -1,0 +1,130 @@
+{
+  "1" : {
+    "q" : "What was Theon's age when he was taken as a ward?",
+    "a" : "10",
+    "b" : "8",
+    "c" : "12",
+    "d" : "14",
+    "s" : "a"
+  },
+	
+	"2" : {
+    "q" : "Which Stark siblings are closest in age?",
+    "a" : "Sansa Stark and Arya Stark",
+    "b" : "Robb Stark and Jon Snow",
+    "c" : "Arya Stark and Bran Stark",
+    "d" : "Robb Stark and Sansa Stark",
+    "s" : "b"
+  },
+	
+	"3" : {
+    "q" : "What is NOT part of the Night's Watch vows?",
+    "a" : "Win No Glory",
+    "b" : "Take No Wife",
+    "c" : "Kill No Innocent",
+    "d" : "Father No Children",
+    "s" : "c"
+  },
+	
+	
+	"4" : {
+    "q" : "Who says, 'When you play the game of thrones, you win or you die'?",
+    "a" : "Varys",
+    "b" : "Petyr Baelish",
+    "c" : "Tyrion Lannister",
+    "d" : "Cersei Lannister",
+    "s" : "d"
+  },
+	
+	"5" : {
+    "q" : "Which house is Petyr Baelish referring to when he says, 'Quick tempers, slow minds'?",
+    "a" : "Starks",
+    "b" : "Baratheons",
+    "c" : "Lannisters",
+    "d" : "Boltons",
+    "s" : "a"
+  },
+	
+	"6" : {
+    "q" : "Which of the following is NOT a face of 'The Seven'?",
+    "a" : "The Maiden",
+    "b" : "The Widow",
+    "c" : "The Mother",
+    "d" : "The Stranger",
+    "s" : "b"
+  },
+	
+	"7" : {
+    "q" : "What is the name of Tommen Baratheon's cat?",
+    "a" : "Ser Meow",
+    "b" : "Ser Furball",
+    "c" : "Ser Whiskers",
+    "d" : "Ser Pounce",
+    "s" : "d"
+  },
+	
+	
+	"8" : {
+    "q" : "According to the Dothraki, where does your spirit go if your body is burned?",
+    "a" : "The Old Country",
+    "b" : "The Great Grass Sea",
+    "c" : "The Night Lands",
+    "d" : "Nowhere",
+    "s" : "c"
+  },
+	
+	
+	"9" : {
+    "q" : "What God is worshipped in the Iron Islands?",
+    "a" : "Iron God",
+    "b" : "Sea God",
+    "c" : "Drowned God",
+    "d" : "Island God",
+    "s" : "c"
+  },
+	
+	"10" : {
+    "q" : "What was the color Myrcella's gown at her funeral?",
+    "a" : "Purple",
+    "b" : "Silver",
+    "c" : "White",
+    "d" : "Gold",
+    "s" : "d"
+  },
+	
+	"11" : {
+    "q" : "What does Grand Maester Pycelle give Queen Cersei before the Battle of Blackwater Bay?",
+    "a" : "Milk of the Poppy",
+    "b" : "Essence of Nightshade",
+    "c" : "Essence of Lavender",
+    "d" : "Blood of the Night",
+    "s" : "b"
+  },
+	
+	"12" : {
+    "q" : "The Faceless Men began as slaves in the mines of which city?",
+    "a" : "Volantis",
+    "b" : "Valyria",
+    "c" : "Slavers Bay",
+    "d" : "Braavos",
+    "s" : "b"
+  },
+	
+	"13" : {
+    "q" : "For which crime had Sir Jorah Mormont been exiled from Westeros?",
+    "a" : "Slave Trading",
+    "b" : "Treason",
+    "c" : "Extortion",
+    "d" : "Murder",
+    "s" : "a"
+  },
+	
+	"14" : {
+    "q" : "What is the name of the Unsullied soldier who is murdered in the brothel by Sons of Harpy?",
+    "a" : "White Rat",
+    "b" : "Brown Rat",
+    "c" : "Red Rat",
+    "d" : "Black Rat",
+    "s" : "a"
+  }
+}
