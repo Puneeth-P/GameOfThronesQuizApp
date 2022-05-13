@@ -1,0 +1,112 @@
+{
+  "1" : {
+    "q" : "In which year did Gandhiji start the Quit India Movement?",
+    "a" : "1940",
+    "b" : "1942",
+    "c" : "1944",
+    "d" : "1946",
+    "s" : "b"
+  },
+
+	"2" : {
+    "q" : "How much time does the sunlight take to reach the Earth?",
+    "a" : "8 minutes 20 seconds",
+    "b" : "8 minutes 30 seconds",
+    "c" : "8 minutes 40 seconds",
+    "d" : "8 minutes 50 seconds",
+    "s" : "a"
+  },
+
+	"3" : {
+    "q" : "In which year did Mother Theresa receive the Nobel Prize?",
+    "a" : "1969",
+    "b" : "1975",
+    "c" : "1979",
+    "d" : "1980",
+    "s" : "c"
+  },
+
+
+	"4" : {
+    "q" : "Which is the longest National Highway in India?",
+    "a" : "NH 1",
+    "b" : "NH 6",
+    "c" : "NH 27",
+    "d" : "NH 44",
+    "s" : "d"
+  },
+
+	"5" : {
+    "q" : "How many time zones are there in Russia?",
+    "a" : "9",
+    "b" : "10",
+    "c" : "11",
+    "d" : "12",
+    "s" : "c"
+  },
+
+	"6" : {
+    "q" : "Which city had the first ever 'fashion-week'?",
+    "a" : "Paris",
+    "b" : "New York",
+    "c" : "London",
+    "d" : "Venice",
+    "s" : "b"
+  },
+
+	"7" : {
+    "q" : "Which is the venue of the 2028 Olympic Games?",
+    "a" : "Paris",
+    "b" : "Rome",
+    "c" : "Moscow",
+    "d" : "Los Angeles",
+    "s" : "d"
+  },
+
+
+	"8" : {
+    "q" : "Which is the busiest airport in the world by passenger traffic?",
+    "a" : "Guangzhou International Airport, China",
+    "b" : "Atlanta International Airport, USA",
+    "c" : "Chengdu International Airport, China",
+    "d" : "Dallas/Fort International Airport, USA",
+    "s" : "a"
+  },
+
+
+	"9" : {
+    "q" : "What God is worshipped in the Iron Islands?",
+    "a" : "Iron God",
+    "b" : "Sea God",
+    "c" : "Drowned God",
+    "d" : "Island God",
+    "s" : "c"
+  },
+
+	"10" : {
+    "q" : "What was the color Myrcella's gown at her funeral?",
+    "a" : "Purple",
+    "b" : "Silver",
+    "c" : "White",
+    "d" : "Gold",
+    "s" : "d"
+  },
+
+	"11" : {
+    "q" : "What does Grand Maester Pycelle give Queen Cersei before the Battle of Blackwater Bay?",
+    "a" : "Milk of the Poppy",
+    "b" : "Essence of Nightshade",
+    "c" : "Essence of Lavender",
+    "d" : "Blood of the Night",
+    "s" : "b"
+  },
+
+	"12" : {
+    "q" : "The Faceless Men began as slaves in the mines of which city?",
+    "a" : "Volantis",
+    "b" : "Valyria",
+    "c" : "Slavers Bay",
+    "d" : "Braavos",
+    "s" : "b"
+  }
+}

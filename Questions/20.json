@@ -1,130 +1,108 @@
 {
   "1" : {
-    "q" : "As a child, what did Tyrion beg his uncle for as a present on his name day?",
-    "a" : "Crown",
-    "b" : "Wine",
-    "c" : "Sword",
-    "d" : "Dragon",
-    "s" : "d"
+    "q" : "How many teeth does a healthy adult have including the wisdom teeth?",
+    "a" : "30",
+    "b" : "32",
+    "c" : "34",
+    "d" : "36",
+    "s" : "b"
   },
-	
+
 	"2" : {
-    "q" : "What was Arya Stark's direwolf called?",
-    "a" : "Ghost",
-    "b" : "Nymeria",
-    "c" : "Lady",
-    "d" : "Shadow",
-    "s" : "b"
-  },
-	
-	"3" : {
-    "q" : "What was King Robert's weapon of choice?",
-    "a" : "Long Sword",
-    "b" : "Spear",
-    "c" : "War Hammer",
-    "d" : "Battle Axe",
+    "q" : "How many stars are there in the USA flag??",
+    "a" : "48",
+    "b" : "49",
+    "c" : "50",
+    "d" : "52",
     "s" : "c"
   },
-	
-	"4" : {
-    "q" : "Which character takes his own daughters as wives and gives away any new born sons?",
-    "a" : "Craster",
-    "b" : "Mance Rayder",
-    "c" : "Walder Fray",
-    "d" : "Khal Drogo",
+
+	"3" : {
+    "q" : "which is the most widely spoken language in the world?",
+    "a" : "English",
+    "b" : "Chinese",
+    "c" : "Spanish",
+    "d" : "French",
     "s" : "a"
   },
-	
+
+	"4" : {
+    "q" : "How many players will be on a basketball court?",
+    "a" : "5",
+    "b" : "6",
+    "c" : "7",
+    "d" : "8",
+    "s" : "a"
+  },
+
 	"5" : {
-    "q" : "What were the last words of the Mad King before he was stabbed by Jaime Lannister?",
-    "a" : "Forgive me..  Forgive me..",
-    "b" : "Curses on your family",
-    "c" : "Burn Them All",
-    "d" : "Traitor",
+    "q" : "How many prime numbers are there less than 20?",
+    "a" : "6",
+    "b" : "7",
+    "c" : "8",
+    "d" : "9",
     "s" : "c"
   },
-	
+
 	"6" : {
-    "q" : "Who is called the 'Knight of Flowers'",
-    "a" : "Jaime Lannister",
-    "b" : "Dario Naharis",
-    "c" : "Loras Tyrell",
-    "d" : "Gregor Clegane",
+    "q" : "When was first Republic Day celebrated in India?",
+    "a" : "1947",
+    "b" : "1948",
+    "c" : "1950",
+    "d" : "1951",
     "s" : "c"
   },
-	
 	"7" : {
-    "q" : "Where does Ned Stark confront Cersei with the truth he has discovered?",
-    "a" : "Library",
-    "b" : "Garden",
-    "c" : "In his chambers",
-    "d" : "Throne Room",
+    "q" : "What is the capital of UAE?",
+    "a" : "Dubai",
+    "b" : "Abu Dhabi",
+    "c" : "Sharjah",
+    "d" : "Ajman",
     "s" : "b"
   },
-	
+
 	"8" : {
-    "q" : "Who does Cersei send off to the Iron Bank?",
-    "a" : "Doran Martell",
-    "b" : "Jaime Lannister",
-    "c" : "Qyburn",
-    "d" : "Mace Tyrell",
+    "q" : "How many zeroes are there in 1 billion?",
+    "a" : "7",
+    "b" : "8",
+    "c" : "9",
+    "d" : "10",
+    "s" : "c"
+  },
+
+	"9" : {
+    "q" : "Who is the first cricketer to score 200 in ODIs?",
+    "a" : "Chris Gayle",
+    "b" : "Rohi Sharma",
+    "c" : "Sehwag",
+    "d" : "Sachin",
     "s" : "d"
   },
-	
-	
-	"9" : {
-    "q" : "What is Meera Reed's brother called?",
-    "a" : "Jojen Reed",
-    "b" : "Robert Reed",
-    "c" : "Jo Reed",
-    "d" : "Jake Reed",
-    "s" : "a"
-  },
-	
-	
+
 	"10" : {
-    "q" : "What does Brianne name the sword which was given by Jaime to her?",
-    "a" : "Ice",
-    "b" : "LongClaw",
-    "c" : "OathKeeper",
-    "d" : "LightBringer",
-    "s" : "c"
-  },
-	
-	
-	"11" : {
-    "q" : "Where does Sansa meet Littlefinger after receiving his message at the Wall? ",
-    "a" : "Barrowtown",
-    "b" : "Mole's Town",
-    "c" : "Dorne",
-    "d" : "Moat Callin",
-    "s" : "b"
-  },
-	
-	"12" : {
-    "q" : "Who says 'The Lannisters send their regards' to Robb Stark when Robb was stabbed?",
-    "a" : "Walder Frey",
-    "b" : "Edmure Tully",
-    "c" : "Roose Bolton",
-    "d" : "Ramsay Bolton",
-    "s" : "c"
-  },
-	
-	"13" : {
-    "q" : "Where does the Red Wedding take place?",
-    "a" : "Riverrun",
-    "b" : "The Red Keep",
-    "c" : "The Twins",
-    "d" : "The Eyrie",
-    "s" : "c"
-  },
-	
-	"14" : {
-    "q" : "What is the name of Rickon's direwolf?",
-    "a" : "ShaggyDog",
-    "b" : "Wolf",
-    "c" : "Summer",
-    "d" : "Grey Wind",
+    "q" : "Which country has won the most football World cups?",
+    "a" : "Brazil",
+    "b" : "Spain",
+    "c" : "England",
+    "d" : "Germany",
     "s" : "a"
+  },
+
+	"11" : {
+    "q" : "How many edges does a cube have?",
+    "a" : "8",
+    "b" : "10",
+    "c" : "12",
+    "d" : "14",
+    "s" : "c"
+  },
+
+	"12" : {
+    "q" : "Where is National Stock Exchange (NSE) located?",
+    "a" : "Kolkata",
+    "b" : "New Delhi",
+    "c" : "Mumbai",
+    "d" : "Chennai",
+    "s" : "c"
   }
 }

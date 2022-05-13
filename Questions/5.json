@@ -1,0 +1,80 @@
+{
+	"cri": {
+		"1": "Against which IPL team did Chris Gayle smashed 175 runs in IPL?",
+		"2": "Which country is hosting the 2023 ODI world cup?",
+		"3": "Expand DRS"
+	},
+
+  "mat": {
+		"1": "One card is drawn from a deck of 52 cards.Calculate the probability that the card will be an ace?",
+		"2": "What is seven-sided polygon known as?",
+		"3": "What is HCF of 8 and 16?"
+	},
+
+  "fri": {
+		"1": "Aside from the six main characters, which character appears the most on Friends?",
+		"2": "How many sisters does Joey have?",
+		"3": "How many categories of towel does Monica have?"
+	},
+  "ca": {
+		"1": "Which bank acquired the Indian consumer banking business of CitiBank?",
+		"2": "In which country did the world's largest electric cruise ship makes its maiden voyage?",
+		"3": "How many seats did Congress party win in the recently concluded Uttar Pradesh election?"
+	},
+  "geo": {
+		"1": "Which is the largest island in the world?",
+		"2": "Which is the capital of USA?",
+		"3": "Which is the 2nd largest country in the world by area?"
+	},
+  "exp": {
+		"1": "Who is the President of Expedia Marketplace?",
+		"2": "Who rail company did Expedia acquire few years back? ",
+		"3": "In which year did Expedia go public?"
+	},
+  "tec": {
+		"1": "Which company acquired GitHub?",
+		"2": "Expand PDF",
+		"3": "Which is the first cryptocurrency?"
+	},
+  "spo": {
+		"1": "Who has won the most grand slams in tennis?",
+		"2": "Who was the runner-up of 2018 football world cup?",
+		"3": "Which country has the most Olympic gold medals in 2021?"
+	},
+
+  "ind": {
+		"1": "Which is the longest river in India?",
+		"2": "What is the capital of Andhra Pradesh?",
+		"3": "Who is the current defence minister of India?"
+	},
+  "bol": {
+    "1": "Who is the director of movie 'Lakshya'?",
+    "2": "In the movie Zindagi Na Milega Dobara, the guys sing a jingle about the biscuit, what were the biscuits called?",
+    "3": "In the movie 3 idiots, what was the nick name given to Chatur by his friends?"
+  },
+  "mar": {
+    "1": "How many Infinity Stones are there?",
+    "2": "Nick Fury wears an eye patch over which eye? ",
+    "3": "Captain America's shield and Bucky's arm are made of what?"
+  },
+  "ani": {
+    "1": "Which is the smallest bird in the world?",
+    "2": "How many legs does a cockroach have?",
+    "3": "Which is the most smartest animal in the world?"
+  },
+  "pol": {
+    "1": "Who is the first party president of BJP?",
+    "2": "Whats is the minimum age to qualify for election to the Lok Sabha?",
+    "3": "Who is the chairman of Rajya Sabha? (President/Vice-President/Prime Minister?)"
+  },
+  "myt": {
+    "1": "Name any son of Rama",
+    "2": "Which arrow did Arjuna used to kill Karna?",
+    "3": "How many days did Kurukshetra War last?"
+  },
+  "ads": {
+    "1": "Which drink had the tagline 'Yeh Dil Maange More'?",
+    "2": "Which dog breed was used in famous vodafone ad?",
+    "3": "In which ad did Rahul Dravid become 'Indiranagar ka Gunda?'"
+  }
+}

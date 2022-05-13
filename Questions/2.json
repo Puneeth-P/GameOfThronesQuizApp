@@ -1,119 +1,119 @@
 {
   "1" : {
-    "q" : "Who gives Robert Baratheon poisoned wine?",
-    "a" : "Cersei Lannister",
-    "b" : "Lancel Lannister ",
-    "c" : "Jaime Lannister",
-    "d" : "Petyr Baelish",
-    "s" : "b",
-    "50-50" : "a"
-  },
-  "2" : {
-    "q" : "What's the name of the explosive that gave the Lannisters the edge in the Battle of Blackwaters Bay?",
-    "a" : "DragonFire",
-    "b" : "WildFire",
-    "c" : "GhostFire",
-    "d" : "GodsFire",
-    "s" : "b",
-    "50-50" : "a"
-  },
-  "3" : {
-    "q" : "Who is known as “The Queen of Thorns”? ",
-    "a" : "Cersei Lannister",
-    "b" : "Margaery Tyrell",
-    "c" : "Olenna Tyrell",
-    "d" : "Yara Greyjoy",
+    "q" : "Which of the following countries don't have income tax?",
+    "a" : "Yemen",
+    "b" : "Saudi Arabia",
+    "c" : "Monaco",
+    "d" : "Jordan",
     "s" : "c",
     "50-50" : "b"
   },
-  "4" : {
-    "q" : "What relation is mad king to Daenerys Targaryen?",
-    "a" : "GrandFather",
-    "b" : "Father",
-    "c" : "Uncle",
-    "d" : "Brother",
+  "2" : {
+    "q" : "Which is the largest state in India by area?",
+    "a" : "Rajasthan",
+    "b" : "Uttar Pradesh",
+    "c" : "Madhya Pradesh",
+    "d" : "Maharashtra",
+    "s" : "a",
+    "50-50" : "c"
+  },
+  "3" : {
+    "q" : "In which year did World War II end?",
+    "a" : "1944",
+    "b" : "1945",
+    "c" : "1946",
+    "d" : "1948",
     "s" : "b",
-    "50-50" : "a"
+    "50-50" : "c"
+  },
+  "4" : {
+    "q" : "Which of these states have longest coastline?",
+    "a" : "Tamil Nadu",
+    "b" : "Gujurat",
+    "c" : "Maharashtra",
+    "d" : "Orissa",
+    "s" : "b",
+    "50-50" : "c"
   },
   "5" : {
-    "q" : "Which city did Daenerys Targaryen visit first?",
-    "a" : "Meereen",
-    "b" : "Qarth",
-    "c" : "Yunkai",
-    "d" : "Astapor",
-    "s" : "b",
-    "50-50" : "d"
+    "q" : "What is the color of letter 'L' in Google logo?",
+    "a" : "Blue",
+    "b" : "Yellow",
+    "c" : "Red",
+    "d" : "Green",
+    "s" : "d",
+    "50-50" : "c"
   },
   "6" : {
-    "q" : "What does one horn blast mean for the Night's Watch?",
-    "a" : "Rangers returning",
-    "b" : "Rangers in trouble",
-    "c" : "Wildlings spotted",
-    "d" : "Arrival of Lord Commander",
+    "q" : "Which is the largest private sector bank in India?",
+    "a" : "HDFC Bank",
+    "b" : "Axis Bank",
+    "c" : "Kotak Bank",
+    "d" : "ICICI Bank",
     "s" : "a",
     "50-50" : "d"
   },
   "7" : {
-    "q" : "Where does Tyrion Lannister meet Shae first?",
-    "a" : "The Eyrie",
-    "b" : "The Lannister Camp",
-    "c" : "King’s Landing",
-    "d" : "A Brothel in the North",
+    "q" : "Where is the headquarters of WHO situated?",
+    "a" : "New York",
+    "b" : "Geneva",
+    "c" : "Paris",
+    "d" : "London",
     "s" : "b",
-    "50-50" : "d"
+    "50-50" : "a"
   },
   "8" : {
-    "q" : "Which king or queen has Barristan Selmy NOT served?",
-    "a" : "Daenerys Targaryen",
-    "b" : "Robert Baratheon",
-    "c" : "Tommen Baratheon",
-    "d" : "Aerys II Targaryen",
+    "q" : "Where is the central office of RBI situated?",
+    "a" : "Kolkata",
+    "b" : "Bangalore",
+    "c" : "Mumbai",
+    "d" : "New Delhi",
     "s" : "c",
     "50-50" : "d"
   },
   "9" : {
-    "q" : "Which title does Viserys Targaryen NOT use?",
-    "a" : "First of His Name",
-    "b" : "King of the Andals and the First Men",
-    "c" : "Protector of the Realm",
-    "d" : "Lord of the Seven Kingdoms",
+    "q" : "Which of these countries has the highest neighbours?",
+    "a" : "China",
+    "b" : "Germany",
+    "c" : "Austria",
+    "d" : "Brazil",
     "s" : "a",
     "50-50" : "d"
   },
   "10" : {
-    "q" : "Who does Oberyn Martell seek revenge for?",
-    "a" : "His wife",
-    "b" : "His mother",
-    "c" : "His daughter",
-    "d" : "His sister",
+    "q" : "How many fundamental rights are given by the Indian Constitution?",
+    "a" : "4",
+    "b" : "5",
+    "c" : "6",
+    "d" : "8",
     "s" : "d",
     "50-50" : "c"
   },
   "11" : {
-    "q" : "Which of these is NOT a group in the night’s watch?",
-    "a" : "The Rangers",
-    "b" : "The Builders",
-    "c" : "The Guards",
-    "d" : "The Stewards",
+    "q" : "Which is the 3rd most populated country?",
+    "a" : "Brazil",
+    "b" : "Indonesia",
+    "c" : "USA",
+    "d" : "Russia",
     "s" : "c",
     "50-50" : "b"
   },
   "12" : {
-    "q" : "Which one of these is NOT a name of the three dragons?",
-    "a" : "Rhaegal",
-    "b" : "Viserion",
-    "c" : "Drogon",
-    "d" : "Balerion",
-    "s" : "d",
-    "50-50" : "b"
+    "q" : "Which continent has the most countries?",
+    "a" : "Asia",
+    "b" : "Africa",
+    "c" : "Europe",
+    "d" : "North America",
+    "s" : "b",
+    "50-50" : "a"
   },
   "13" : {
-    "q" : "Who saves Sansa Stark during the Riot of King's Landing?",
-    "a" : "The Hound",
-    "b" : "Tyrion Lannister",
-    "c" : "Joffrey Lannister",
-    "d" : "Petyr Baelish",
-    "s" : "a",
-    "50-50" : "b"
+    "q" : "Which metal is found in the earth’s core?",
+    "a" : "Aluminium",
+    "b" : "Iron",
+    "c" : "Silicon",
+    "d" : "Nickel",
+    "s" : "b",
+    "50-50" : "a"
   }
 }

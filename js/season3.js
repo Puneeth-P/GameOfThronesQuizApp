@@ -9,9 +9,24 @@ $(function() {
   });
 
 
-var easy = [{"2":"Who is this?"}, {"3":"Who is this?"}, {"10":"What does this pin signify?"}, {"11":"Who is this?"}, {"12":"What disease is this?"}]
-var diff = [{"1":"Which castle is this?"}, {"4":"What is this place called?"}, {"5":"Which city entrance is this?"}, {"6":"Who will kill this champion?"},{"7":"What word is chanted in this scene?"}, {"8":"What is this spot called?"}, {"9":"Where is this?"}  ]
-
+var easy = [
+  {"1":"Which logo is correct?"},
+  {"2":"Which company's logo is this?"},
+  {"3":"Who is this cricketer?"},
+  {"4":"Name this bird"},
+  {"5":"Name this monument"},
+  {"6":"Name this state"},
+  {"7":"Which app is this?"},
+  {"8":"Identify this model"},
+  {"9":"This portrait is shown in which movie?"},
+  {"10":"Identify this city"},
+  {"11":"Identify this greek alphabet"},
+  {"12":"What is this table called?"},
+  {"13":"Which DB symbol is this?"},
+  {"14":"Which logo is correct?"},
+  {"15":"Which game is this?"},
+  {"16":"Name this car brand"}
+]
 
 var answer;
 var bestOption;
@@ -55,20 +70,13 @@ $("#next-img").click(function(){
   var num;
   var obj;
 
-  if(easy.length > 0){
+
     num = Math.floor(Math.random() * (easy.length));
     obj = easy[num];
     if(num != -1) {
          easy.splice(num, 1);
        }
-  }
-  else{
-  num = Math.floor(Math.random() * (diff.length));
-  obj = diff[num];
-  if(num != -1) {
-       diff.splice(num, 1);
-     }
-  }
+
 
   console.log(obj);
   var key = Object.keys(obj);

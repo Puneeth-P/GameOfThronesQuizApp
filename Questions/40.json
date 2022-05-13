@@ -1,130 +1,112 @@
 {
   "1" : {
-    "q" : "What was Theon's age when he was taken as a ward?",
-    "a" : "10",
-    "b" : "8",
-    "c" : "12",
-    "d" : "14",
+    "q" : "Which country gifted the 'Statue of liberty' to USA in 1886?",
+    "a" : "France",
+    "b" : "England",
+    "c" : "Germany",
+    "d" : "Russia",
     "s" : "a"
   },
-	
+
 	"2" : {
-    "q" : "Which Stark siblings are closest in age?",
-    "a" : "Sansa Stark and Arya Stark",
-    "b" : "Robb Stark and Jon Snow",
-    "c" : "Arya Stark and Bran Stark",
-    "d" : "Robb Stark and Sansa Stark",
-    "s" : "b"
+    "q" : "In which ocean 'Bermuda Triangle' region is located?",
+    "a" : "Pacific",
+    "b" : "Arctic",
+    "c" : "Atlantic",
+    "d" : "Indian",
+    "s" : "c"
   },
-	
+
 	"3" : {
-    "q" : "What is NOT part of the Night's Watch vows?",
-    "a" : "Win No Glory",
-    "b" : "Take No Wife",
-    "c" : "Kill No Innocent",
-    "d" : "Father No Children",
+    "q" : "Which country is known as the 'Playground of Europe'?",
+    "a" : "Belgium",
+    "b" : "Netherlands",
+    "c" : "Switzerland",
+    "d" : "Italy",
     "s" : "c"
   },
-	
-	
+
 	"4" : {
-    "q" : "Who says, 'When you play the game of thrones, you win or you die'?",
-    "a" : "Varys",
-    "b" : "Petyr Baelish",
-    "c" : "Tyrion Lannister",
-    "d" : "Cersei Lannister",
-    "s" : "d"
-  },
-	
-	"5" : {
-    "q" : "Which house is Petyr Baelish referring to when he says, 'Quick tempers, slow minds'?",
-    "a" : "Starks",
-    "b" : "Baratheons",
-    "c" : "Lannisters",
-    "d" : "Boltons",
+    "q" : "Which number is considered as 'Ramanujan number'?",
+    "a" : "1729",
+    "b" : "1759",
+    "c" : "1379",
+    "d" : "1279",
     "s" : "a"
   },
-	
+
+  "5" : {
+    "q" : "Which of these body parts continue to grow for your entire life?",
+    "a" : "Eyes",
+    "b" : "Toes",
+    "c" : "Fingers",
+    "d" : "Ears",
+    "s" : "d"
+  },
+
 	"6" : {
-    "q" : "Which of the following is NOT a face of 'The Seven'?",
-    "a" : "The Maiden",
-    "b" : "The Widow",
-    "c" : "The Mother",
-    "d" : "The Stranger",
-    "s" : "b"
+    "q" : "Which is the first animal to go to space?",
+    "a" : "Cat",
+    "b" : "Ape",
+    "c" : "Dog",
+    "d" : "Mice",
+    "s" : "c"
   },
-	
+
 	"7" : {
-    "q" : "What is the name of Tommen Baratheon's cat?",
-    "a" : "Ser Meow",
-    "b" : "Ser Furball",
-    "c" : "Ser Whiskers",
-    "d" : "Ser Pounce",
-    "s" : "d"
+    "q" : "Which city has the first metro rail in India?",
+    "a" : "New Delhi",
+    "b" : "Kolkata",
+    "c" : "Hyderabad",
+    "d" : "Chennai",
+    "s" : "b"
   },
-	
-	
+
 	"8" : {
-    "q" : "According to the Dothraki, where does your spirit go if your body is burned?",
-    "a" : "The Old Country",
-    "b" : "The Great Grass Sea",
-    "c" : "The Night Lands",
-    "d" : "Nowhere",
-    "s" : "c"
-  },
-	
-	
-	"9" : {
-    "q" : "What God is worshipped in the Iron Islands?",
-    "a" : "Iron God",
-    "b" : "Sea God",
-    "c" : "Drowned God",
-    "d" : "Island God",
-    "s" : "c"
-  },
-	
-	"10" : {
-    "q" : "What was the color Myrcella's gown at her funeral?",
-    "a" : "Purple",
-    "b" : "Silver",
-    "c" : "White",
-    "d" : "Gold",
+    "q" : "Which city is known as Diamond city of India?",
+    "a" : "Ahmedabad",
+    "b" : "Patna",
+    "c" : "Chandigarh",
+    "d" : "Surat",
     "s" : "d"
   },
-	
+
+
+	"9" : {
+    "q" : "Which is the largest city in the world by population?",
+    "a" : "Tokyo",
+    "b" : "New Delhi",
+    "c" : "Shanghai",
+    "d" : "Beijing",
+    "s" : "a"
+  },
+
+
+	"10" : {
+    "q" : "Which is India's first satellite?",
+    "a" : "Bhaskara",
+    "b" : "INSAT",
+    "c" : "Aryabhatta",
+    "d" : "Rohini",
+    "s" : "c"
+  },
+
 	"11" : {
-    "q" : "What does Grand Maester Pycelle give Queen Cersei before the Battle of Blackwater Bay?",
-    "a" : "Milk of the Poppy",
-    "b" : "Essence of Nightshade",
-    "c" : "Essence of Lavender",
-    "d" : "Blood of the Night",
-    "s" : "b"
+    "q" : "How many parvas are there in Mahabharatha?",
+    "a" : "15",
+    "b" : "16",
+    "c" : "18",
+    "d" : "20",
+    "s" : "c"
   },
-	
+
 	"12" : {
-    "q" : "The Faceless Men began as slaves in the mines of which city?",
-    "a" : "Volantis",
-    "b" : "Valyria",
-    "c" : "Slavers Bay",
-    "d" : "Braavos",
-    "s" : "b"
-  },
-	
-	"13" : {
-    "q" : "For which crime had Sir Jorah Mormont been exiled from Westeros?",
-    "a" : "Slave Trading",
-    "b" : "Treason",
-    "c" : "Extortion",
-    "d" : "Murder",
+    "q" : "How many number of spokes are present in Ashok Chakra in India flag?",
+    "a" : "24",
+    "b" : "25",
+    "c" : "26",
+    "d" : "28",
     "s" : "a"
   },
-	
-	"14" : {
-    "q" : "What is the name of the Unsullied soldier who is murdered in the brothel by Sons of Harpy?",
-    "a" : "White Rat",
-    "b" : "Brown Rat",
-    "c" : "Red Rat",
-    "d" : "Black Rat",
-    "s" : "a"
-  }
+
 }
